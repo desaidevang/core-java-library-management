@@ -1,0 +1,16 @@
+# Ignore compiled class files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Mac/Windows hidden files
+.DS_Store
+Thumbs.db
